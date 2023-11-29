@@ -9,11 +9,25 @@ body {
 h1 {
     text-align: center;
     font-size: 48px;
+    font-family: 'Pacifico', cursive;
+}
+
+.commandments ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.commandments li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.commandments span {
     font-weight: 700;
+    /* Bold for the commandment title */
+    font-family: 'Roboto', sans-serif;
 }
 
 .banner img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
+    width
