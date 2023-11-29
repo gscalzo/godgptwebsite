@@ -9,12 +9,12 @@ body {
 h1 {
     text-align: center;
     font-size: 48px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 .commandments ul {
     list-style-type: none;
-    padding: 0;
+    padding: 6px;
     text-align: center;
 }
 
@@ -30,4 +30,7 @@ h1 {
 }
 
 .banner img {
-    width
+    width: 100%;
+    height: auto;
+    display: block;
+}
